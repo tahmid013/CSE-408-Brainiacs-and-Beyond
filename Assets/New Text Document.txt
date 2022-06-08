@@ -4,3 +4,7 @@
 F1F1F1
 808080
 1C1C1C
+
+1F3194
+
+Offwhite: F5F2E8

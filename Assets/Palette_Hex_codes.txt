@@ -5,6 +5,9 @@ F1F1F1
 808080
 1C1C1C
 
+very light blue : AEDBED
+very very light blue :D0E8F2
+
 1F3194
 
 Offwhite: F5F2E8

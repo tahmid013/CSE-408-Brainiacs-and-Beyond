@@ -11,6 +11,7 @@ import QuizMainPage from './components/pages/QuizMainPage';
 import Features from './components/pages/Features';
 import HowWorks from './components/pages/HowWorks';
 import DemoGuideVideo from './components/pages/DemoGuideVideo';
+import Category from './components/pages/Category';
 const App = () =>  {
     return (
       <>
@@ -24,7 +25,7 @@ const App = () =>  {
           <Route exact path = "/signup"  element = {<SignUp/>} />
           <Route exact path = "/quizmainpage"  element = {<QuizMainPage/>} />
           <Route exact path = "/demo"  element = {<DemoGuideVideo/>} />
-
+          <Route exact path = "/quizcategory"  element = {<Category/>} />
         </Routes>
        
         </Router>
